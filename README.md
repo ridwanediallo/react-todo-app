@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple exampl
 #### Set up your own copy locally
 
 - Clone [the GitHub Repository](https://github.com/ridwanediallo/react-todo-app.git)
-- Go to the Project `cd "Math-magicians`
+- Go to the Project `cd react-todo-app`
 - Run `npm install` to install the _dependencies_
 - Run `npm start` to run the live server.
 
